@@ -6,6 +6,8 @@ Click to watch:
 
 [![Click here to watch](https://img.youtube.com/vi/2memnhMLox0/0.jpg)](https://www.youtube.com/watch?v=2memnhMLox0)
 
+The sounds in this video are from Human: Fall Flat OST. Laboratory Theme, Lumber Theme & Forest Theme. You can download the pack of songs [here](https://drive.google.com/file/d/1TeFknD5lEM4rZQEFfdKAB3WMaDwJNHUr/view).
+
 ## Config
 
 Here's how default `lua/autorun/config.lua` looks like:
