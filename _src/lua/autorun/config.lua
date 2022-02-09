@@ -1,6 +1,6 @@
 Crossfades = Crossfades or {}
 
-Crossfades.debug = true
+Crossfades.debug = false
 Crossfades.config = {
 	example = {
 		track1 = {
